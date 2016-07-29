@@ -645,10 +645,10 @@ will jump to these sections:
 Content for chapter one.
 
 ## Chapter 2 <a id="chapter-2"></a>
-Content for chapter one.
+Content for chapter two.
 
 ## Chapter 3 <a id="chapter-3"></a>
-Content for chapter one.
+Content for chapter three.
 ```
 **NOTE** that specific placement of the anchor tag seems to be arbitrary. They are placed inline here since it seems to be unobtrusive, and it works.
 
